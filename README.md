@@ -3,6 +3,7 @@
  ### NST Manager App
  This is the SmartThings user created SmartApp and Device handlers for Nest.
  The SmartApp and Device Handlers work together to provide integration to the SmartThings ecosystem using Nest's Official API.
+ A fork to customise for simplecreatures.
 
  ## Author
  * @tonesto7
